@@ -1,0 +1,7 @@
+git status
+git add .
+git log
+git commit -m ""
+git stash 
+git stash pop 
+git stash clear
