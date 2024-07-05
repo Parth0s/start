@@ -1,1 +1,4 @@
-You have to do this
+git status
+git log
+git add .
+git commit -m ""
