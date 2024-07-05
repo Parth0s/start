@@ -2,6 +2,7 @@ Some Git Commands:
 
 git init  -- to make a repository
 git status
+git reset @933939
 git add .
 git log
 git commit -m ""
@@ -15,3 +16,10 @@ git fetch origin
 git merge origin/main
 git rebase origin/main
 git push -u origin main
+
+git branch (name)
+git checkout (name) to switch from main branch
+then modify anything and commit it
+then push as:
+git push -u origin smasher
+it will come as pull request
